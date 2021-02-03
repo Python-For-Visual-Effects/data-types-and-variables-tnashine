@@ -11,6 +11,9 @@ print(64+32)
 
 # 2.- Do the same as the question one but this time use variables instead of 
 # numbers.
+x = 64
+y = 32
+print(x+y)
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
 
