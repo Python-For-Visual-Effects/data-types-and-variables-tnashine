@@ -15,6 +15,7 @@ x = 64
 y = 32
 print(x+y)
 
+
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
