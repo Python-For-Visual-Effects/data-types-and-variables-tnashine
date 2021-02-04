@@ -44,3 +44,10 @@ print(len("This is my first" + a))
 x = 1920*1.1
 y = 1080*1.1
 print("The 10% overscan of 1920 is ", x , ", the value of 1080 is ", y)
+
+
+
+
+
+
+
