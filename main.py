@@ -31,7 +31,7 @@ print(
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 
 # The sentence is "This is my first Python program."
-a = Python program
+a = "Python program"
 print("This is my first " + str(a))
 print(len("This is my first" + a))
 
@@ -41,3 +41,6 @@ print(len("This is my first" + a))
 # 5.- Given the resolution 1920 x 1080, make a program that prints a string with 
 # the 10% over-scan value of those numbers. The printed string must be as 
 # follows: "The 10% overscan of 1920 is <value 1>, and the 1080 is <value 2>"
+x = 1920*1.1
+y = 1080*1.1
+print("The 10% overscan of 1920 is ", x , ", the value of 1080 is ", y)
