@@ -26,6 +26,7 @@ print(
 )
 
 
+
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 
 # The sentence is "This is my first Python program."
