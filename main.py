@@ -35,6 +35,9 @@ a = Python program
 print("This is my first " + str(a))
 print(len("This is my first" + a))
 
+
+
+
 # 5.- Given the resolution 1920 x 1080, make a program that prints a string with 
 # the 10% over-scan value of those numbers. The printed string must be as 
 # follows: "The 10% overscan of 1920 is <value 1>, and the 1080 is <value 2>"
