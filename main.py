@@ -17,6 +17,14 @@ print(x+y)
 
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
+student = "Tanvi Nashine"
+subject = "Python"
+college = "Seneca college"
+print(
+    "Hello, my name is " + student + ", and I "
+    " am your " + subject + " student at " + college
+)
+
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 
